@@ -1,6 +1,6 @@
 ---
-name: Generic Issue Template
-about: Remember users of Discussions, leaving Issues for Bug/RFE.
+name: Report Bug or RFE
+about: Report a misbehavior or request a behavior change.
 title: ''
 labels: untriaged
 assignees: ''
